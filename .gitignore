@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+*.exe
+/reuse_distance
